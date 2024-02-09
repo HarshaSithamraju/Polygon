@@ -1,0 +1,19 @@
+{
+  "POLYGON": [
+    {
+      "name": "Polygon",
+      "description": "Polygon (formerly Matic) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
+      "url": "https://polygon.technology/"
+    },
+    {
+      "name": "Polygon Documentation",
+      "description": "Official documentation for developers looking to integrate with Polygon.",
+      "url": "https://docs.polygon.technology/"
+    },
+    {
+      "name": "Polygon on GitHub",
+      "description": "GitHub repository for the Polygon project, where developers can find and contribute to the source code.",
+      "url": "https://github.com/0xPolygon"
+    }
+  ]
+}
